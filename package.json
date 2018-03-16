@@ -1,0 +1,26 @@
+{
+  "name": "semacticui",
+  "version": "1.0.0",
+  "description": "studying front-end lib",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamSungJun/SEMANTICUI.git"
+  },
+  "keywords": [
+    "semantic"
+  ],
+  "author": "HSJPRIME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamSungJun/SEMANTICUI/issues"
+  },
+  "homepage": "https://github.com/HamSungJun/SEMANTICUI#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "semantic-ui": "^2.3.0"
+  }
+}
